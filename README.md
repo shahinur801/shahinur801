@@ -34,6 +34,4 @@ Built a home lab for SIEM, firewall, and IDS/IPS evaluation; regularly simulatin
 ## 💡 What I'm Looking For
 Open to entry-level Security Analyst or Cybersecurity Engineer opportunities. Driven to leverage my technical depth, hands-on project experience, and collaborative mindset in a mission-driven organization. Love solving new security challenges—let's connect!
 
-GitHub: [github.com/shahinur801](https://github.com/shahinur801)  
-LinkedIn: [linkedin.com/in/shahinur-islam-seattle](https://www.linkedin.com/in/a21e0ebb/)  
 Email: shahin203@hotmail.com
