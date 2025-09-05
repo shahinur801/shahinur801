@@ -17,9 +17,10 @@ I am a **Cybersecurity Professional** with hands-on experience in IT infrastruct
 - Automated Security Tools Development (Python/TypeScript)
 ---
 ## 🏆 Certifications
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
-- AWS Certified Cloud Practitioner *(in progress)*
-- Linux Professional Institute Certificate
+- Azure Security Engineer Associate, Microsoft | H44B-B057
+- CCNA, Cisco | XVFWC9HBLR4QPG2
+- Penetration Testing Consultant, Mile2 | 493100
+- Network Security Associate, FORTINET | 1EcS4BtFdU
 ---
 ## 🚀 Key Projects
 ### [CyberSentinelAI](https://github.com/shahinur801/CyberSentinelAI)
@@ -33,5 +34,4 @@ Built a home lab for SIEM, firewall, and IDS/IPS evaluation; regularly simulatin
 ---
 ## 💡 What I'm Looking For
 Open to entry-level Security Analyst or Cybersecurity Engineer opportunities. Driven to leverage my technical depth, hands-on project experience, and collaborative mindset in a mission-driven organization. Love solving new security challenges—let's connect!
-
 Email: shahin203@hotmail.com
